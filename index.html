@@ -1,12 +1,38 @@
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/media-queries.css">
+    <script src="https://kit.fontawesome.com/24bdf1bc40.js" crossorigin="anonymous"></script>
     <title>Player</title>
 </head>
+
 <body>
-    
+    <div class="bg-image"></div>
+    <div class="player-box">
+        <img class="music-cover" src="images/pexels-sebastian-voortman.jpg" alt="music-cover">
+        <div class="details">
+            <h2 class="music-name">Now Playing</h2>
+            <p class="singer-name">Sina karimi</p>
+            <input class="music-range" type="range" min="0" max="100" value="80%"> 
+            <div class="time-detail">
+                <span>5:31</span>
+                <span>8:22</span>
+            </div>
+            <div class="action-icons">
+                <i class="fa-solid fa-backward-step"></i>
+                <i class="fa-solid fa-play"></i>
+                <i class="fa-solid fa-forward-step"></i>
+            </div>
+            <div class="volume">
+                <i class="fa-solid fa-volume-low"></i>
+                <input class="music-volume" type="range" min="0" max="100" value="80%"> 
+                <i class="fa-solid fa-volume-high"></i>
+            </div>
+        </div>
+    </div>
 </body>
+
 </html>
