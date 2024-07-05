@@ -1,0 +1,137 @@
+@media (max-height: 730px) {
+    .player-box {
+        height: 80% !important;
+        top: 10% !important;
+    }
+
+    .music-name {
+        font-size: larger !important;
+    }
+
+    .singer-name {
+        font-size: large !important;
+    }
+
+    .time-detail {
+        font-size: 0.7rem !important;
+    }
+
+    .action-icons i {
+        padding: 0 1.5rem !important;
+        font-size: 1.7rem !important;
+    }
+
+    .action-icons i:hover {
+        font-size: 2rem !important;
+    }
+
+    .volume i {
+        font-size: 1.5rem !important;
+    }
+
+    .volume i:hover {
+        font-size: 1.8rem !important;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and down) */
+@media (min-width: 768px) {
+    .player-box {
+        height: 70%;
+        top: 15%
+    }
+
+    .music-cover {
+        height: 60%;
+    }
+
+    .details {
+        top: 66%;
+    }
+
+    .music-name {
+        font-size: 1.8rem;
+    }
+
+    .singer-name {
+        font-size: 1.2rem;
+    }
+
+    .action-icons i {
+        padding: 0 2rem;
+        font-size: 2.8rem;
+    }
+
+    .action-icons i:hover {
+        font-size: 3.1rem;
+    }
+
+    .time-detail {
+        font-size: 1.2rem;
+    }
+
+    .volume i {
+        font-size: 2rem;
+    }
+
+    .volume i:hover {
+        font-size: 2.3rem;
+    }
+
+    .music-volume{
+        width: 80%;
+    }
+}
+
+
+/* Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) {}
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {
+    .player-box {
+        height: 83%;
+        top: 10%
+    }
+
+    .music-cover {
+        height: 60%;
+    }
+
+    .details {
+        top: 67%;
+    }
+
+    .music-name {
+        font-size: 1.8rem;
+    }
+
+    .singer-name {
+        font-size: 1.2rem;
+    }
+
+    .action-icons i {
+        padding: 1.5rem 2rem;
+        font-size: 2.8rem;
+    }
+
+    .action-icons i:hover {
+        font-size: 3.1rem;
+    }
+
+    .time-detail {
+        font-size: 1.2rem;
+    }
+
+    .volume i {
+        font-size: 2rem;
+    }
+
+    .volume i:hover {
+        font-size: 2.3rem;
+    }
+}
