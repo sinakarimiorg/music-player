@@ -11,7 +11,7 @@ Simply get the latest master and open the index.html file.
 
 ## Demo
 To see Live preview of page click on button
-![Live preview](https://sinakarimiorg.github.io/music-player/)
+[Live preview](https://sinakarimiorg.github.io/music-player/)
 
 ## Author
 [Sina Karimi](https://github.com/sinakarimiorg)🫰
