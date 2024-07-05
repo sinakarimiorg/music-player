@@ -1,4 +1,4 @@
-## A player with attractive visage crated by (pure Html & css)
+## A player with attractive visage created by (pure Html & css)
 ![Author](https://img.shields.io/badge/author-%40sinakarimiorg-blue.svg)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/sinakarimiorg/my-login/.svg?style=social)](https://x.com/itsSinakarimi) <br>
 ![Screenshot 2024-07-05 181535](https://github.com/sinakarimiorg/music-player/assets/173164895/11ad6fd8-345a-4ebe-86d1-06cff48966b9)
